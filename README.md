@@ -6,6 +6,7 @@
 
 Durante minhas férias, com um tempo livre a mais (e um pouco de tédio 😅), resolvi estudar APIs de criptomoedas e criar algo prático.  
 Este projeto busca automaticamente dados atualizados das principais criptomoedas do mundo, gera uma planilha em Excel e permite que o Power BI atualize os gráficos sempre com os valores mais recentes.
+Foz esse projeto tambem para acompanhar mais meus investimentos 
 
 ---
 
